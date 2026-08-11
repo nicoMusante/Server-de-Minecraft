@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:jungle_log": 2
+    },
+    "minecraft:mined": {
+      "minecraft:jungle_log": 2
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 4306,
+      "minecraft:time_since_rest": 2453,
+      "minecraft:fall_one_cm": 875,
+      "minecraft:walk_one_cm": 4637,
+      "minecraft:total_world_time": 2453,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 4429,
+      "minecraft:play_time": 2453,
+      "minecraft:climb_one_cm": 12,
+      "minecraft:jump": 26,
+      "minecraft:time_since_death": 2453
+    }
+  },
+  "DataVersion": 4903
+}
